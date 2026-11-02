@@ -61,7 +61,9 @@ The PayrollEmployee class overrides the getEmployeeType() method, allowing it to
 Project Structure
 
 OOP_Milestone2/
+│
 ├── nbproject/
+│
 ├── src/
 │   └── Milestone2/
 │       ├── Employee.java
@@ -73,6 +75,7 @@ OOP_Milestone2/
 │       ├── EmployeeDataHandler.java
 │       ├── MainGUI.java
 │       └── PayrollProcessorTest.java
+│
 ├── build/
 ├── dist/
 ├── build.xml
