@@ -58,8 +58,11 @@ The PayrollEmployee class extends the Employee class and inherits its properties
 
 The PayrollEmployee class overrides the getEmployeeType() method, allowing it to provide its own implementation.
 
-Project Structure
+## Project Structure
 
+The project is organized into the following folders and files:
+
+```text
 OOP_Milestone2/
 │
 ├── nbproject/
@@ -81,6 +84,7 @@ OOP_Milestone2/
 ├── build.xml
 ├── manifest.mf
 └── employees.csv
+```
 
 
 How to Run the Project
